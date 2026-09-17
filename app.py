@@ -7,6 +7,16 @@ st.set_page_config(
 
 st.title("🤖 Agentic RAG Assistant")
 st.caption("RAG + Gemini + Conversation History | Ask me anything about your file.")
+st.info("""
+  **Example questions**
+
+• What is overfitting?  
+• What is cross-validation?  
+• What is a neural network?  
+• What is RAG?  
+• What is an embedding?  
+• How can overfitting be reduced?
+""")
 
 
 if "messages" not in st.session_state:
