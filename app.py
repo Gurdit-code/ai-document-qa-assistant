@@ -11,8 +11,7 @@ st.info("""
   **Example questions**
 
 • What is overfitting?  
-• What is cross-validation?  
-• What is a neural network?  
+• What is cross-validation?   
 • What is RAG?  
 • What is an embedding?  
 • How can overfitting be reduced?
